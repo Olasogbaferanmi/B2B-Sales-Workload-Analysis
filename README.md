@@ -22,5 +22,5 @@ Medium Article Case Study:
 * **Business Recommendation:** By re-routing leads from overloaded reps (mostly in the West/Southeast) to the 13 underutilized reps (Midwest/Northeast), the business can increase overall closing rates without increasing headcount.
 
 ---
-*Author: [Your Name]*
-*Tools: SQL Server, Data Modeling, RevOps Strategy*
+*Author: **Olasogba Mayowa***
+*Tools: **Microsoft SQL Server, Data Modeling, RevOps Strategy***
