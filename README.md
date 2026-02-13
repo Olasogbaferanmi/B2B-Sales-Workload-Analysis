@@ -1,7 +1,7 @@
 # B2B Sales Operations: Workload & Capacity Analysis 📊💼
 
 ## 📌 Project Overview
-Most sales dashboards only track top-line revenue, which masks underlying inefficiencies and rep burnout. In this project, I used **SQL (T-SQL)** to analyze a B2B dataset of 50 sales representatives generating $10.4M in revenue. 
+Most sales dashboards only track top-line revenue, which masks underlying inefficiencies and rep burnout. In this project, I used Microsost SQL server to analyze a B2B dataset of 50 sales representatives generating $10.4M in revenue. 
 
 I built an automated **Workload Distribution Engine** to normalize revenue against account capacity, identifying severely overloaded reps and uncovering hidden excess capacity within the team.
 
